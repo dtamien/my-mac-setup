@@ -1,0 +1,37 @@
+Alacritty
+Amazon Kindle
+Audacity
+AutoTrim
+Bitwarden
+Brave Browser
+Burp Suite Community Edition
+ChatGPT
+Discord
+Docker
+Elmedia Player
+FileZilla
+Firefox
+Google Chrome
+Google Docs
+Google Drive
+Google Sheets
+Google Slides
+iTerm
+Jabra Direct
+Jabra Firmware Update
+kitty
+LibreOffice
+Maccy
+Messenger
+Microsoft Defender Shim
+Microsoft Excel
+Microsoft OneNote
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Teams
+Microsoft Word
+Muse Hub
+noTunes
+OneDrive
+Postman
+Swish
