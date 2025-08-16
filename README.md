@@ -1,7 +1,7 @@
 # my-mac-setup
 
 ```bash
-➜  my-mac-setup git:(main) ✗ ls ~/\!cloud-synced/Installers       
+➜  my-mac-setup git:(main) ✗ ls ~/\!cloud-synced/Installers
 Brave-Browser.dmg
 ChatGPT.dmg
 Firefox 141.0.3.dmg
